@@ -81,7 +81,7 @@ A season slicer filters the dashboard to any IPL edition.
 
 7. Preview
 
-![IPL Dashboard Preview]([IPL-dashboard.png](https://github.com/prashantprajapati7476-lang/Excel-IPL-Dashboard/blob/main/Snapshort%20of%20the%20IPL-dashboard.png))
+![IPL Dashboard Preview](https://github.com/prashantprajapati7476-lang/Excel-IPL-Dashboard/blob/main/Snapshort%20of%20the%20IPL-dashboard.png)
 
 ---
 
